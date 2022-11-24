@@ -9,7 +9,7 @@ Sound track and audios for animations and game play are downloaded from Pixabay 
 
 ## Environment 
 
-Our characters are placed in the outdoor green battle field where they fight one another with the wits of chess rule. Like any other chess game, there are two players (blue and white) in this Wizard Chess. 
+Our characters are placed in the outdoor green battle field where they fight one another with the wits of chess rule. Like any other chess game, there are two players (blue and white) in this Animated Chess. 
 
 Player (you) will assume the position of white. As always, white makes the first move.
 
@@ -69,11 +69,11 @@ This function can be further improved by incorporating the position of the chess
 
 ## Improvements Consideration
 
-•	This wizard game can be further improved by looking into the weapon collision to the enemy body with Unity Software and perhaps, display the ragdoll effects for the enemy destruction. 
-•	At present, when moving chess piece has neighbouring chess pieces, it's sort of colliding with them and sometimes, moving the neighbouring chess pieces unintentionally. Perhaps, it could be animated for the neighbouring chess pieces to give way for moving chess piece.
-•	Minmax algorithm could be allocated to a separate thread to handle the computation. 
-•	Evaluation function can be fine-tuned to incorporate the position of the chess piece and penalties for the loss pairs (for example: having an incur on the total score for the loss of two bishops).
-•	At present, characters are facing the direction of the mouse pointer. This could be re-assessed to always face forwards to the enemy positions on the chess board. It would appease the visual of the game. 
+- [ ] This wizard game can be further improved by looking into the weapon collision to the enemy body with Unity Software and perhaps, display the ragdoll effects for the enemy destruction. 
+- [ ] At present, when moving chess piece has neighbouring chess pieces, it's sort of colliding with them and sometimes, moving the neighbouring chess pieces unintentionally. Perhaps, it could be animated for the neighbouring chess pieces to give way for moving chess piece.
+- [ ] Minmax algorithm could be allocated to a separate thread to handle the computation. 
+- [ ] Evaluation function can be fine-tuned to incorporate the position of the chess piece and penalties for the loss pairs (for example: having an incur on the total score for the loss of two bishops).
+- [ ] At present, characters are facing the direction of the mouse pointer. This could be re-assessed to always face forwards to the enemy positions on the chess board. It would appease the visual of the game. 
 
 
 
