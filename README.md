@@ -3,9 +3,11 @@
 Animated chess is a game from the popular ‘Harry Potter’ book series, which follows all the regular rules of chess. In Animated chess, the chess pieces take the form of humanoid characters, and walk from square to square when moved. Also, if a piece ‘claims’ another piece from the board, an attack animation plays and the opposing piece is destroyed. 
 
 ## Credits 
-Characters and animations in this Animated Chess are downloaded from Dungeon Mason (https://assetstore.unity.com/publishers/23554). 
+Characters and animations in this Animated Chess are downloaded from [Dungeon Mason](https://assetstore.unity.com/publishers/23554). 
 
-Sound track and audios for animations and game play are downloaded from Pixabay (https://pixabay.com/sound-effects/) and necessary clipping and re-arranging of sound effects are done with Audio Cutter (https://mp3cut.net/).
+Sound track and audios for animations and game play are downloaded from [Pixabay](https://pixabay.com/sound-effects/) and necessary clipping and re-arranging of sound effects are done with [Audio Cutter](https://mp3cut.net/).
+
+This animated chess game is built with [Unity](https://unity.com/). 
 
 ## Environment 
 
@@ -15,7 +17,7 @@ Player (you) will assume the position of white. As always, white makes the first
 
 ## Board 
 
-The board is built with the grid system and every grid (white or green square) has a column and row number assigned for the navigation of the chess piece movement and storing of the position of player’s chess piece. Note: The idea of the chess board grid is inspired by [Chess Game (with Unity) by Brian Broom] (https://www.kodeco.com/5441-how-to-make-a-chess-game-with-unity). 
+The board is built with the grid system and every grid (white or green square) has a column and row number assigned for the navigation of the chess piece movement and storing of the position of player’s chess piece. Note: The idea of the chess board grid is inspired by [Chess Game (with Unity) by Brian Broom](https://www.kodeco.com/5441-how-to-make-a-chess-game-with-unity). 
 
 ## Piece Selection and movement
 
@@ -57,7 +59,7 @@ At the end of every look ahead set (i.e. after looking ahead 2 moves for AI leve
 
 For the score calculation, a value is assigned to the chess piece. Total score of the player is the sum of the values of the player’s chess piece on the board subtract by the values from the opponent’s chess pieces. 
 
-This Wizard Game utilizes Larry Kaufman’s suggested values for middle game (https://www.chessfornovices.com/chesspiecevalues.html), multiplied by 100 so as there are no floating numbers. 
+This Wizard Game utilizes [Larry Kaufman’s suggested values for middle game](https://www.chessfornovices.com/chesspiecevalues.html), multiplied by 100 so as there are no floating numbers. 
 
 | Chess Piece  | Pawn | Rook | Knight | Bishop | Queen | King |
 | ------------ | -----| -----| -------| -------| ------| -----| 
