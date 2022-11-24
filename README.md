@@ -1,6 +1,6 @@
 # Animated-chess
 
-Animated chess is a game from the popular ‘Harry Potter’ book series, which follows all the regular rules of chess. The main difference between Wizard chess and regular chess is the pieces are animated. In Wizard chess, the pieces take the form of humanoid characters, and walk from square to square when moved. Also, if a piece ‘claims’ another piece from the board, an attack animation plays and the opposing piece is destroyed. 
+Animated chess is a game from the popular ‘Harry Potter’ book series, which follows all the regular rules of chess. In Animated chess, the chess pieces take the form of humanoid characters, and walk from square to square when moved. Also, if a piece ‘claims’ another piece from the board, an attack animation plays and the opposing piece is destroyed. 
 
 ## Credits 
 Characters and animations in this Animated Chess are downloaded from Dungeon Mason (https://assetstore.unity.com/publishers/23554). 
