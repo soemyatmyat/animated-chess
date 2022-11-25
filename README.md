@@ -48,6 +48,7 @@ For random move, computer player follows the rules of chess but does not look ah
 
 ## Calculated Moves 
 For calculated moves (thinking ahead), minmax algorithm with alpha-beta pruning is implemented in the game. 
+
 Notes:
 1.	Game Pieces Shuffling: Pieces are shuffled first before evaluating for the best move. This is to prevent from the Knight always coming out first (At the game start, there are no best moves since the scoring is zero for any move. Therefore, the first move is always default to Knight coming out as Knight is the first chess piece to get evaluated), followed by the rook moving right and left until an opponent’s piece is captured. This approach is obvious when AI is looking ahead 1 move only. 
  
