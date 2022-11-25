@@ -72,7 +72,7 @@ This function can be further improved by incorporating the position of the chess
 
 ## Improvements Consideration
 
-- [ ] This wizard game can be further improved by looking into the weapon collision to the enemy body with Unity Software and perhaps, display the ragdoll effects for the enemy destruction. 
+- [ ] This animated chess game can be further improved by looking into the weapon collision to the enemy body with Unity Software and perhaps, display the ragdoll effects for the enemy destruction. 
 - [ ] At present, when moving chess piece has neighbouring chess pieces, it's sort of colliding with them and sometimes, moving the neighbouring chess pieces unintentionally. Perhaps, it could be animated for the neighbouring chess pieces to give way for moving chess piece.
 - [ ] Minmax algorithm could be allocated to a separate thread to handle the computation. 
 - [ ] Evaluation function can be fine-tuned to incorporate the position of the chess piece and penalties for the loss pairs (for example: having an incur on the total score for the loss of two bishops).
