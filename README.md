@@ -60,7 +60,7 @@ At the end of every look ahead set (i.e. after looking ahead 2 moves for AI leve
 
 For the score calculation, a value is assigned to the chess piece. Total score of the player is the sum of the values of the player’s chess piece on the board subtract by the values from the opponent’s chess pieces. 
 
-This Wizard Game utilizes [Larry Kaufman’s suggested values for middle game](https://www.chessfornovices.com/chesspiecevalues.html), multiplied by 100 so as there are no floating numbers. 
+This Animated Chess Game utilizes [Larry Kaufman’s suggested values for middle game](https://www.chessfornovices.com/chesspiecevalues.html), multiplied by 100 so as there are no floating numbers. 
 
 | Chess Piece  | Pawn | Rook | Knight | Bishop | Queen | King |
 | ------------ | -----| -----| -------| -------| ------| -----| 
