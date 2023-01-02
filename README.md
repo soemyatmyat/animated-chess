@@ -79,6 +79,9 @@ This function can be further improved by incorporating the position of the chess
 - [ ] At present, characters are facing the direction of the mouse pointer. This could be re-assessed to always face forwards to the enemy positions on the chess board. It would appease the visual of the game. 
 
 
+## Super Note
+Please pardon the messy code, I completed this project alone in 3 weeks, including finding animations, audios, learning min-max algorithm, unity physics while at the same time, working on other projects. I am just grateful that I have knowledge of how to play Chess before building this game. 
+
 
 
 
